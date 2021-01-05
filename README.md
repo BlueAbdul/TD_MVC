@@ -2,4 +2,4 @@ SALUT NOUVEAU FICHIER README
 
 Petit TD sur le modèle mvc php
 
-Commit
+Version 1.0.0
